@@ -1,0 +1,13 @@
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.exe
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.deps.json
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.runtimeconfig.json
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.runtimeconfig.dev.json
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.dll
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\bin\Debug\netcoreapp3.1\InsecureRandomness.pdb
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.csprojAssemblyReference.cache
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.AssemblyInfoInputs.cache
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.AssemblyInfo.cs
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.csproj.CoreCompileInputs.cache
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.dll
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.pdb
+D:\Users\IGorbunov\Dropbox\_Work\_развитие\course\simbirsoft .net\lessonTask\InsecureRandomness\obj\Debug\netcoreapp3.1\InsecureRandomness.genruntimeconfig.cache
