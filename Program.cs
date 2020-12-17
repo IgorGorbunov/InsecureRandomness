@@ -7,7 +7,7 @@ namespace InsecureRandomness
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(NotGoodSecureRandomness.GetSecureString());
+            Console.WriteLine(GoodSecureRandomness.GetSecureString());
 
         }
     }
